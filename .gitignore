@@ -1,2 +1,7 @@
 Miniconda3-latest-MacOSX-arm64.sh
 *.sh # if you want to be extra safe
+
+# Task 4 generated files
+data/
+__pycache__/
+*.pth
